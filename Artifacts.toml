@@ -1,0 +1,288 @@
+[[ranger]]
+arch = "aarch64"
+git-tree-sha1 = "8f0a8e701544af2a86487e91ba2425bed5867c73"
+os = "macos"
+
+    [[ranger.download]]
+    sha256 = "75f2e9d01ca464fc214923bedca326f08bd692debc0006f640d488395bf65ef4"
+    url = "https://github.com/JuliaBinaryWrappers/ranger_jll.jl/releases/download/ranger-v0.13.1+0/ranger.v0.13.1.aarch64-apple-darwin.tar.gz"
+[[ranger]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4f0ce2b6d0b2d4b69ad2fc25405d2e56ca758a21"
+libc = "glibc"
+os = "linux"
+
+    [[ranger.download]]
+    sha256 = "b0cc1ee7a3ea6cef27d4958ef6c586db5212898e1b0ebb6fdd5db7ebc3a6eefa"
+    url = "https://github.com/JuliaBinaryWrappers/ranger_jll.jl/releases/download/ranger-v0.13.1+0/ranger.v0.13.1.aarch64-linux-gnu-cxx03.tar.gz"
+[[ranger]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4ee0193903637824ec1ab600da30282074b2cc52"
+libc = "glibc"
+os = "linux"
+
+    [[ranger.download]]
+    sha256 = "fdc33fca71c8aa9eec87308fdc778884c99a2921dc997292e4363fc2ab36ea75"
+    url = "https://github.com/JuliaBinaryWrappers/ranger_jll.jl/releases/download/ranger-v0.13.1+0/ranger.v0.13.1.aarch64-linux-gnu-cxx11.tar.gz"
+[[ranger]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e028b952aa3a9680c601b755974f9d8f10844787"
+libc = "musl"
+os = "linux"
+
+    [[ranger.download]]
+    sha256 = "dffaf91335f1bae770243d4a2e4679853ba20e3c8d60182ba6e1d41b846ba8ce"
+    url = "https://github.com/JuliaBinaryWrappers/ranger_jll.jl/releases/download/ranger-v0.13.1+0/ranger.v0.13.1.aarch64-linux-musl-cxx03.tar.gz"
+[[ranger]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e6907a207d9f559eddf050d268ee8531b6dcd720"
+libc = "musl"
+os = "linux"
+
+    [[ranger.download]]
+    sha256 = "4da23d56e944f7f77b27862a74e1405c48470ee78f1c26c3aab53a21f797fd9d"
+    url = "https://github.com/JuliaBinaryWrappers/ranger_jll.jl/releases/download/ranger-v0.13.1+0/ranger.v0.13.1.aarch64-linux-musl-cxx11.tar.gz"
+[[ranger]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "23e8bb264c69a5ecbfa6350022155adedb023750"
+libc = "glibc"
+os = "linux"
+
+    [[ranger.download]]
+    sha256 = "047ebace0756c61be086f1a3fd4ac6b337406f1b52a564ecdb31d6d0cc5c598a"
+    url = "https://github.com/JuliaBinaryWrappers/ranger_jll.jl/releases/download/ranger-v0.13.1+0/ranger.v0.13.1.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[ranger]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "92a54dd5a0b0a84bff76cda534bd24c221069dab"
+libc = "glibc"
+os = "linux"
+
+    [[ranger.download]]
+    sha256 = "8cecb1efabf81a21cb812e9a122ea485efa4241874f7ac0fb8299d72711f56d0"
+    url = "https://github.com/JuliaBinaryWrappers/ranger_jll.jl/releases/download/ranger-v0.13.1+0/ranger.v0.13.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[ranger]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "43ec31e03b34da0951a3cbb6fd2f377fa3517c47"
+libc = "musl"
+os = "linux"
+
+    [[ranger.download]]
+    sha256 = "d37ab39d3070f8c6541ac372ed2100b7c2fdaf5e202e0b25a9ef22b132c44ae5"
+    url = "https://github.com/JuliaBinaryWrappers/ranger_jll.jl/releases/download/ranger-v0.13.1+0/ranger.v0.13.1.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[ranger]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "70edddfcd77c99d776745d5d3dc393a64bde7619"
+libc = "musl"
+os = "linux"
+
+    [[ranger.download]]
+    sha256 = "ed5d0bfe57eeacb74904679f85b718151e0653350b457ccb7dc76efe31173a75"
+    url = "https://github.com/JuliaBinaryWrappers/ranger_jll.jl/releases/download/ranger-v0.13.1+0/ranger.v0.13.1.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[ranger]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "348c62e4bc1de67f1f531662f8fd410d3bae394c"
+libc = "glibc"
+os = "linux"
+
+    [[ranger.download]]
+    sha256 = "737239a4bedd96570bff8486d3333a245fc6f3cba20b5819f5bd09019f0187cc"
+    url = "https://github.com/JuliaBinaryWrappers/ranger_jll.jl/releases/download/ranger-v0.13.1+0/ranger.v0.13.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[ranger]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0c044b27f282b4bef5e5c8b3149edc4f0e9f4ab6"
+libc = "glibc"
+os = "linux"
+
+    [[ranger.download]]
+    sha256 = "bdc73696896b61ca41cc9299f7b116079e820fac8c8680210ca1132bc0445813"
+    url = "https://github.com/JuliaBinaryWrappers/ranger_jll.jl/releases/download/ranger-v0.13.1+0/ranger.v0.13.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[ranger]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1b118cbbf626c28ffe1d798d25fa4924ba3279b5"
+libc = "musl"
+os = "linux"
+
+    [[ranger.download]]
+    sha256 = "08586c5194a43e963320f46b71f6f967f407e0dd0de8a83a056a5f23aa222f06"
+    url = "https://github.com/JuliaBinaryWrappers/ranger_jll.jl/releases/download/ranger-v0.13.1+0/ranger.v0.13.1.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[ranger]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2f1da84d86495577c41d06a40bbc8c154b5aa30a"
+libc = "musl"
+os = "linux"
+
+    [[ranger.download]]
+    sha256 = "9a9ed15ebcf7851b2b5451184043097ccb5ef736637c2de0a716ddac9ae2d412"
+    url = "https://github.com/JuliaBinaryWrappers/ranger_jll.jl/releases/download/ranger-v0.13.1+0/ranger.v0.13.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[ranger]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ed7a82233843b3332820c1cd0886160dc62b9d15"
+libc = "glibc"
+os = "linux"
+
+    [[ranger.download]]
+    sha256 = "75276f20d72ea53aec91876d083b2a7881a45c0f2f554b82d924c0181a8a8a4e"
+    url = "https://github.com/JuliaBinaryWrappers/ranger_jll.jl/releases/download/ranger-v0.13.1+0/ranger.v0.13.1.i686-linux-gnu-cxx03.tar.gz"
+[[ranger]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1bee77b9ee9a6c75ca570db9e3808db56e9829b7"
+libc = "glibc"
+os = "linux"
+
+    [[ranger.download]]
+    sha256 = "a332b890fd6eab2e1bd17ddb38978a7fde5b44d84d8babdea43de01d490f660b"
+    url = "https://github.com/JuliaBinaryWrappers/ranger_jll.jl/releases/download/ranger-v0.13.1+0/ranger.v0.13.1.i686-linux-gnu-cxx11.tar.gz"
+[[ranger]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "98a46859941bdbffaf76c8daf8d0fe53ee1b9b4e"
+libc = "musl"
+os = "linux"
+
+    [[ranger.download]]
+    sha256 = "5c917bae06aa0e70305cc501023c0d1dca256a9962c492cd96bc6b6f928ac424"
+    url = "https://github.com/JuliaBinaryWrappers/ranger_jll.jl/releases/download/ranger-v0.13.1+0/ranger.v0.13.1.i686-linux-musl-cxx03.tar.gz"
+[[ranger]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ce9602823192ff553676cfcc2a669f21864859b1"
+libc = "musl"
+os = "linux"
+
+    [[ranger.download]]
+    sha256 = "75c622a2d2ff311432938a7b5d5c3944fcdc0e4554feaa75a5e2b0c286839c12"
+    url = "https://github.com/JuliaBinaryWrappers/ranger_jll.jl/releases/download/ranger-v0.13.1+0/ranger.v0.13.1.i686-linux-musl-cxx11.tar.gz"
+[[ranger]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9c3143bd9b0dbaa870210635d39c1a95b064abe8"
+os = "windows"
+
+    [[ranger.download]]
+    sha256 = "c0ffeb7d9be310270e4c60a9bd2c8fd29e8d954b0327bac43d002710541b4925"
+    url = "https://github.com/JuliaBinaryWrappers/ranger_jll.jl/releases/download/ranger-v0.13.1+0/ranger.v0.13.1.i686-w64-mingw32-cxx03.tar.gz"
+[[ranger]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5a5fe92cb908ca3723cb36a5cb254cc5368efd20"
+os = "windows"
+
+    [[ranger.download]]
+    sha256 = "db4e10727d7d111b112bd1849a7d8ca1cce200a0ef6207a36290eb868786d2fe"
+    url = "https://github.com/JuliaBinaryWrappers/ranger_jll.jl/releases/download/ranger-v0.13.1+0/ranger.v0.13.1.i686-w64-mingw32-cxx11.tar.gz"
+[[ranger]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5c429c2c07f2f220f59ce46281e8d02adb5b6ef3"
+libc = "glibc"
+os = "linux"
+
+    [[ranger.download]]
+    sha256 = "f3775af29a92b0040105dc7dfc822fad6c16820e3b5b92bafd9d2e99f5f14086"
+    url = "https://github.com/JuliaBinaryWrappers/ranger_jll.jl/releases/download/ranger-v0.13.1+0/ranger.v0.13.1.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[ranger]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9c937811afbd91a11f22ccc9f82799421241dd03"
+libc = "glibc"
+os = "linux"
+
+    [[ranger.download]]
+    sha256 = "e9f329ab0c70947a559cbd6d5ab9c116648ad474f5c4af566e482c56214221cd"
+    url = "https://github.com/JuliaBinaryWrappers/ranger_jll.jl/releases/download/ranger-v0.13.1+0/ranger.v0.13.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[ranger]]
+arch = "x86_64"
+git-tree-sha1 = "4acaac312f068a5981a33e0acc23fabccbb7bd95"
+os = "macos"
+
+    [[ranger.download]]
+    sha256 = "e6a6f5fefb54f9c8a45a7175145a98ad86dedd5fbf9d59c7cffaa582edee11ce"
+    url = "https://github.com/JuliaBinaryWrappers/ranger_jll.jl/releases/download/ranger-v0.13.1+0/ranger.v0.13.1.x86_64-apple-darwin.tar.gz"
+[[ranger]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8503e25209ec7116dafec11127f2a065dd52aefd"
+libc = "glibc"
+os = "linux"
+
+    [[ranger.download]]
+    sha256 = "a79cdc773add89107c4dd0c20ed0bcfc6c912963855afe0849bdddd31f8f55ea"
+    url = "https://github.com/JuliaBinaryWrappers/ranger_jll.jl/releases/download/ranger-v0.13.1+0/ranger.v0.13.1.x86_64-linux-gnu-cxx03.tar.gz"
+[[ranger]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "91d950c5e8803ae99946ee5f61b28c17ae99ca58"
+libc = "glibc"
+os = "linux"
+
+    [[ranger.download]]
+    sha256 = "6bc122791258a454a6206a4b4042e773f8b58480f0276506a83fbe68e6b9bcf2"
+    url = "https://github.com/JuliaBinaryWrappers/ranger_jll.jl/releases/download/ranger-v0.13.1+0/ranger.v0.13.1.x86_64-linux-gnu-cxx11.tar.gz"
+[[ranger]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3f2683303a2042b051e05138d7bed08c859c2e01"
+libc = "musl"
+os = "linux"
+
+    [[ranger.download]]
+    sha256 = "5f41ba33f33c68569b5a8caacc36d90d72c69364fe76c7c77f91113ecb470cab"
+    url = "https://github.com/JuliaBinaryWrappers/ranger_jll.jl/releases/download/ranger-v0.13.1+0/ranger.v0.13.1.x86_64-linux-musl-cxx03.tar.gz"
+[[ranger]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2aff583e6beb46000064467ae3aa53c9f16a47e4"
+libc = "musl"
+os = "linux"
+
+    [[ranger.download]]
+    sha256 = "7dbb3eb9ddb173fbeb6a91e99a53b93c61ab07a5e0020bfc898a4f74f063fae3"
+    url = "https://github.com/JuliaBinaryWrappers/ranger_jll.jl/releases/download/ranger-v0.13.1+0/ranger.v0.13.1.x86_64-linux-musl-cxx11.tar.gz"
+[[ranger]]
+arch = "x86_64"
+git-tree-sha1 = "3928fcfd5cf3711e55999db761ee2b927e7a2514"
+os = "freebsd"
+
+    [[ranger.download]]
+    sha256 = "1343a1426be92fdef218b39c37c3a93f376831c2f9c6d59d59172be915e0095b"
+    url = "https://github.com/JuliaBinaryWrappers/ranger_jll.jl/releases/download/ranger-v0.13.1+0/ranger.v0.13.1.x86_64-unknown-freebsd.tar.gz"
+[[ranger]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3d4a2b7203ce659baba3b96aee12a7c49897ecf3"
+os = "windows"
+
+    [[ranger.download]]
+    sha256 = "9f46a178d71f2de6302b43d9ca6a9c9d898f50f8964810599072f4afaea54469"
+    url = "https://github.com/JuliaBinaryWrappers/ranger_jll.jl/releases/download/ranger-v0.13.1+0/ranger.v0.13.1.x86_64-w64-mingw32-cxx03.tar.gz"
+[[ranger]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6fed4c0dd37209f94fe8174c81fc68fd0552dd8c"
+os = "windows"
+
+    [[ranger.download]]
+    sha256 = "00b6f8835cce961fd884f087725cce6081ca185231644b57e6c01ed42dca27d4"
+    url = "https://github.com/JuliaBinaryWrappers/ranger_jll.jl/releases/download/ranger-v0.13.1+0/ranger.v0.13.1.x86_64-w64-mingw32-cxx11.tar.gz"
